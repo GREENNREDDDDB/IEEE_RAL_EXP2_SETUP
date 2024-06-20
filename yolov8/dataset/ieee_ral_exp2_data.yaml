@@ -1,0 +1,10 @@
+path: dataset/ieee_ral_exp2_data # dataset root dir
+train: images/train # train images (relative to 'path') 1281167 images
+val: images/val # val images (relative to 'path') 50000 images
+test: images/test
+
+# Classes
+names:
+  0: apple
+  1: tomato
+  2: orange
